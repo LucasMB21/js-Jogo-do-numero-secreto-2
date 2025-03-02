@@ -1,13 +1,43 @@
-# Olá, mundo!👽
+# 🎮 Jogo do Número Secreto
+
+## 📖 Sobre o jogo
+
+O **Jogo do Número Secreto** é um jogo interativo onde o jogador precisa adivinhar um número entre **1 e 50**.
+
+🔹 Se o jogador errar, o jogo dará dicas informando se o número secreto é **maior** ou **menor**.
+🔹 Ao acertar, há a opção de **iniciar um novo jogo**.
+🔹 O jogo conta com uma **assistente virtual** que narra os acontecimentos.
+
 ---
-   Esse e o jogo do número secreto o jogador precisa escolher um número entre 1 e 50 quando o jogador acertar ele tem a opção de iniciar um novo jogo e caso erre o número o jogo dá dicas se o número secreto é menor ou maior,  além tbm de ter uma assistente que narra o que acontece no jogo.
 
+## 🚀 Aprendizados
 
-   também aprendi como utilizar o Git e GitHub como criar um repositório e compartilhar de forma prática o projeto.
+Durante o desenvolvimento deste projeto, aprendi:
 
-tecnologias utilizadas _HTML_ , _CSS_ e _JAVASCRIPT_. 
+✔️ Como utilizar **Git** e **GitHub** para versionamento e compartilhamento de projetos.
+✔️ Como criar um **repositório** e hospedar um projeto de forma prática.
+✔️ Aplicação prática de **HTML**, **CSS** e **JavaScript** para criar uma experiência interativa.
 
-link do jogo https://js-jogo-do-numero-secreto-2.vercel.app
+---
 
-![image](https://github.com/LucasMB21/js-Jogo-do-numero-secreto-2/assets/130411731/3160027e-a368-48e7-b5f0-d6299291527d)
+## 🛠️ Tecnologias utilizadas
+
+- **HTML5** → Estrutura do jogo
+- **CSS3** → Estilização e responsividade
+- **JavaScript** → Lógica do jogo e interação com o usuário
+
+---
+
+## 🎮 Jogue agora!
+
+🔗 **Acesse o jogo:** [Jogo do Número Secreto](https://js-jogo-do-numero-secreto-2.vercel.app)
+
+### 📸 Captura de Tela
+
+<img src="https://github.com/LucasMB21/js-Jogo-do-numero-secreto-2/assets/130411731/3160027e-a368-48e7-b5f0-d6299291527d" width="500px" />
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **[LucasMB21](https://github.com/LucasMB21)** com base nos cursos da [Alura](https://www.alura.com.br/).
 
