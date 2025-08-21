@@ -42,7 +42,7 @@ Durante o desenvolvimento, aprofundei meus conhecimentos em:
 
 A aplicação está hospedada na Vercel e pode ser acessada online:
 
-📍 **Acesse o jogo aqui**
+📍 **[Acesse o projeto aqui](https://js-jogo-do-numero-secreto-2.vercel.app/)**
 
 ### 📸 Captura de Tela
 
